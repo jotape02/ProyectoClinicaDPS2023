@@ -1,0 +1,21 @@
+INTEGRANTES:
+
+Novoa Velásquez Yesenia Nicole NV210134
+Guerrero Zelaya Diego Benjamín GZ210369
+Flores Santos Juan Pablo FS142078
+Rivas Figueroa Dennis Iván RF140580
+
+Pasos para visualizar los puntos de la fase 1
+-Visualizar archivo de trabajo: 
+https://docs.google.com/document/d/1ykyf_WWqudc37iuEqnKKZANQalGKpEEdaUgSSeRLbuQ/edit#
+
+- Moqups diseño de App (Se recomienda visualizar como imagen)
+https://app.moqups.com/oqP5cFg2B9AkPnWGrzYS3Oa460xc3XJJ/edit/page/a880590a1
+
+-Diagrama UML
+https://app.moqups.com/oqP5cFg2B9AkPnWGrzYS3Oa460xc3XJJ/edit/page/a80d6f6ba
+
+-Ingreso a Trello (Distintas actividades realizadas)
+https://trello.com/b/F4ZPvXiK/fase-1
+
+
